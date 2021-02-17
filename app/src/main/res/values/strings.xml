@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CheckBox App</string>
+    <string name="input1">Ingrese Primer Valor</string>
+    <string name="input2">Ingrese Segundo Valor</string>
+    <string name="add">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="Calc">Calcular</string>
+    <string name="add_result">&#160;Sumados son:&#160;</string>
+    <string name="subtract_result">&#160;Restados son:&#160;</string>
+    <string name="empty_box">Seleccione una opción</string>
+    <string name="valid_input">Ingrese un número válido</string>
+</resources>
